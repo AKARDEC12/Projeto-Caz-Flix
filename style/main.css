@@ -48,7 +48,7 @@ header nav a:hover{
 
 .video-principal{
     font-size: 20px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(/img/xcaze.jpg) ;
+    background: url(/img/xcaze.jpg);
 
     height: 900px;
     background-size: cover;
@@ -57,6 +57,7 @@ header nav a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    
 }
 
 /*#imagem-principal{
