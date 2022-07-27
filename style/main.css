@@ -48,16 +48,14 @@ header nav a:hover{
 
 .video-principal{
     font-size: 20px;
-    background: url(/img/xcaze.jpg);
-
-    height: 900px;
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url(/img/xcaze.jpg) ;
+    background-repeat: no-repeat;
+    height: 700px;
     background-size: cover;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    
 }
 
 /*#imagem-principal{
@@ -75,7 +73,7 @@ header nav a:hover{
 }
 
 .titulo{
-    margin-top: 600px;
+    margin-top: 400px;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
