@@ -131,6 +131,11 @@ header nav a:hover{
     display: block;
 }
 
+.box-filme:hover,
+.box-filme2:hover{
+    border: 5px solid #fff;  
+}
+
 .carrosel-videos{
     margin-top: 5px;
 }
